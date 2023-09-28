@@ -11,6 +11,7 @@ https://ncdoj.gov/legal-services/legal-opinions-directory/
 
 For more, see this [cron cheatsheet](https://devhints.io/cron)
 
+```
 Min  Hour Day  Mon  Weekday
 *    *    *    *    *  command to be executed
 ┬    ┬    ┬    ┬    ┬
@@ -19,3 +20,4 @@ Min  Hour Day  Mon  Weekday
 │    │    └───────────  Day      (1..31)
 │    └────────────────  Hour     (0..23)
 └─────────────────────  Minute   (0..59)
+```
