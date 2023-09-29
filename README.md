@@ -6,6 +6,10 @@ Following tutorial [here](https://www.gavinrozzi.com/post/automating-scraping-gh
 We're going to try scraping a single page of legal opinions from the NC attorney general
 https://ncdoj.gov/legal-services/legal-opinions-directory/
 
+Permissions note: To write to the repo, you'll need to set appropriate permissions.
+
+Settings > Actions > General > Workflow permissions > Read and write permissions
+
 
 ## Cron syntax
 
